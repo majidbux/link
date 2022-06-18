@@ -1,4 +1,4 @@
-module src/link
+module link
 
 go 1.18
 
