@@ -1,4 +1,4 @@
-module link
+module github.com/majidbux/link
 
 go 1.18
 
