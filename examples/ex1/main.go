@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"src/link"
 	"strings"
+	
+	"github.com/majidbux/link"
 )
 
 var exampleHtml = `
